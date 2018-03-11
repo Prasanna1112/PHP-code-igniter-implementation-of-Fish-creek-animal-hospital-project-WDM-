@@ -1,0 +1,96 @@
+body{
+	font-family: "Verdana", Arial, Sans-serif;
+	background: #6699ff;
+    }
+
+div.body{
+	  background: #ffffff;
+	  margin: 0 auto;
+	  overflow: hidden;
+}
+	
+
+h1{
+     line-height: 200%;
+	 font-family: "Verdana";
+	 background-image:  url("../images/lilfish.gif");
+	 background-size: 100% 100%;
+	 background-repeat: no-repeat;
+	 position: relative;
+	 color: #ffffff;
+	 margin-top: 0;
+	 text-shadow: 1px 2px #dedede;
+	 text-align: center;
+  }
+  
+nav a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 1.1em;
+	width: 120px;
+	display: block;
+}
+	
+p, li, dd{
+	color: #460da5;
+ }	
+
+footer{
+	font-size: 0.70em;
+	color: #d5e3ff;
+	font-style: italic;
+      }
+
+#wrapper{
+	  width: 80%;
+	  margin-left: 10%;
+        }
+
+span{
+	color: #003f6e;
+	font-weight: bold;
+	text-shadow: 1px 2px #aaa;
+       }
+  
+   
+div.leftcol{
+	 width: 35%;
+	 padding: 2% 0 0 3%;
+	 position: fixed;
+	 }
+
+.rightcol{
+	width: auto;
+	padding: 0 0 0 3%;
+	margin-left: 150px;
+	float: left;
+	}
+
+label{
+	text-align: right;
+	display: inline-block;
+	width: 140px;
+	padding-right: 20px;
+	margin-bottom: 5px;
+	color: #460da5;
+	}
+
+input, textarea{
+	margin-bottom: 7px;
+	}
+	
+nav a:link{
+	color: #2a2ac0;
+	}
+
+nav a:visited{
+	color: #037aba;
+}
+
+h2{
+	color: #2a2ac0;
+  }
+
+p a{
+	position: relative;
+	}
